@@ -1,0 +1,15 @@
+/* this is class selection 
+.container .text {
+    background-color: #ffff00;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+} */
+
+/* this is type selection */
+div p {
+    background-color: #ffff00;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
