@@ -4,17 +4,17 @@
 }
 
 #two {
-    color: blue;
+    color:#0000ff;
     font-size: 36px;
 }
 
-.odd.cool {
+.cool {
     font-size: 24px;
 
 }
 
 #four {
-    background-color: lightgreen;
+    background-color: rgb(148, 235, 148);
     font-size: 24px;
     font-weight: bold;
 }
